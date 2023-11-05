@@ -1,0 +1,21 @@
+.App {
+  margin: -8px;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+main {
+  text-align: left;
+}
+.primary-container {
+  display: flex;
+  gap: 20px;
+}
+.nav-container {
+  flex: 10%;
+}
+.body-container {
+  flex: 90%;
+  height: 87vh;
+  overflow-y: auto;
+}

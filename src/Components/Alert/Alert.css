@@ -1,0 +1,32 @@
+.alert {
+  margin: 10px;
+  font-size: 1rem;
+  letter-spacing: 0.5px;
+  padding: 20px 25px;
+  border: 1px solid lightgray;
+  border-radius: 10px;
+  width: 90%;
+}
+
+.alert.alert-error {
+  background-color: #f8d7da;
+}
+.alert.alert-success {
+  background-color: #d4edda;
+}
+.alert.alert-warning {
+  background-color: #fff3cd;
+}
+.alert.alert-primary {
+  background-color: #cce5ff;
+}
+
+.alert.alert-secondary {
+  background-color: #e3d9f8;
+}
+.alert.alert-light {
+  background-color: #fefefe;
+}
+.alert.alert-dark {
+  background-color: #d6d8d9;
+}

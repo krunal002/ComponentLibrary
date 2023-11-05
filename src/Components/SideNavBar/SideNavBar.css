@@ -1,0 +1,14 @@
+.side-nav-bar {
+  background-color: whitesmoke;
+  padding: 10px;
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 100%;
+}
+.nav-sideBar {
+  text-decoration: none;
+  color: black;
+  padding: 5px;
+}

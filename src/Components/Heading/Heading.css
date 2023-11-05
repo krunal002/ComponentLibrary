@@ -1,0 +1,28 @@
+.heading.heading-4xl {
+  font-weight: bold;
+  font-size: 40px;
+}
+.heading.heading-3xl {
+  font-weight: bold;
+  font-size: 35px;
+}
+.heading.heading-2xl {
+  font-weight: bold;
+  font-size: 30px;
+}
+.heading.heading-xl {
+  font-weight: bold;
+  font-size: 25px;
+}
+.heading.heading-lg {
+  font-weight: bold;
+  font-size: 20px;
+}
+.heading.heading-md {
+  font-weight: bold;
+  font-size: 15px;
+}
+.heading.heading-sm {
+  font-weight: bold;
+  font-size: 10px;
+}

@@ -1,0 +1,71 @@
+.button {
+  margin: 0 10px 0 0;
+  font-size: 15px;
+  font-weight: 500;
+  padding: 8px 14px;
+  border: 0;
+  outline: none;
+  border-radius: 6px;
+  cursor: pointer;
+  letter-spacing: 0.25px;
+}
+
+.button.button-solid {
+  background-color: #0d6efd;
+  color: #fff;
+}
+.button.button-solid:hover {
+  background-color: #0b5ed7;
+}
+.button.button-outlined {
+  border: 1px solid #0d6efd;
+  color: #0d6efd;
+  background-color: transparent;
+}
+.button.button-outlined:hover {
+  background-color: #0d6dfd0f;
+}
+.button.button-text {
+  color: #0d6efd;
+  background-color: transparent;
+}
+.button.button-text:hover {
+  font-weight: bold;
+}
+.button.button-link {
+  color: #0d6efd;
+  background-color: transparent;
+  text-decoration: underline;
+}
+.button.button-link:hover {
+  font-weight: bold;
+}
+
+.button.button-warning {
+  background-color: #ffc107;
+  color: #000;
+}
+.button.button-warning:hover {
+  background-color: #ffca2c;
+}
+.button.button-info {
+  background-color: #31d2f2;
+  color: #000;
+}
+.button.button-info:hover {
+  background-color: #0dcaf0;
+}
+.button.button-light {
+  background-color: #f8f9fa;
+  color: #000;
+}
+.button.button-light:hover {
+  background-color: #d3d4d5;
+}
+.button.button-dark {
+  background-color: #212529;
+  color: #fff;
+}
+.button.button-dark:hover {
+  background-color: #424649;
+}

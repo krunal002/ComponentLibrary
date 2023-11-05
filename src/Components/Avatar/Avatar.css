@@ -1,0 +1,30 @@
+.avatar {
+  margin: 10px;
+  object-fit: contain;
+  border-radius: 50%;
+}
+
+.avatar-xs {
+  height: 30px;
+  width: 30px;
+}
+
+.avatar-s {
+  height: 45px;
+  width: 45px;
+}
+
+.avatar-m {
+  height: 60px;
+  width: 60px;
+}
+
+.avatar-l {
+  height: 75px;
+  width: 75px;
+}
+
+.avatar-xl {
+  height: 90px;
+  width: 90px;
+}

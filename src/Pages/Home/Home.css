@@ -1,0 +1,12 @@
+:root {
+  --primary-color: tomato;
+  --secondary-color: white;
+}
+.button-container {
+  background-color: var(--primary-color);
+  color: var(--secondary-color);
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+}

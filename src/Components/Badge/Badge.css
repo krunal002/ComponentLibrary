@@ -1,0 +1,36 @@
+.badge {
+  margin: 5px;
+  font-size: 13px;
+  padding: 5px 8px;
+  border-radius: 6px;
+  font-weight: 600;
+  color: #fff;
+}
+
+.badge.badge-primary {
+  background-color: #0d6efd;
+}
+.badge.badge-secondary {
+  background-color: #6c757d;
+}
+.badge.badge-success {
+  background-color: #198754;
+}
+.badge.badge-danger {
+  background-color: #dc3545;
+}
+.badge.badge-warning {
+  background-color: #ffc107;
+  color: #111;
+}
+.badge.badge-info {
+  background-color: #0dcaf0;
+  color: #111;
+}
+.badge.badge-light {
+  background-color: #f8f9fa;
+  color: #111;
+}
+.badge.badge-dark {
+  background-color: #212529;
+}

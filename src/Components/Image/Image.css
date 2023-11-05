@@ -1,0 +1,11 @@
+.image.image-400x200 {
+  position: relative;
+  width: 400px;
+  height: 200px;
+}
+
+.image.round-image-300 {
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+}
